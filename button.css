@@ -1,0 +1,17 @@
+ .button {
+  height: 100vh;
+  line-height: 130px;
+  font-size: 6em;
+  background: #1c191c;
+  flex: 1;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.operated{
+  background: #fe9421
+  color: white;
+}
